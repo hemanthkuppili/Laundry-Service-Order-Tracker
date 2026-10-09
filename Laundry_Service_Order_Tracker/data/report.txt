@@ -1,0 +1,7 @@
+REPORT
+Customers: 1
+Orders: 1
+Pending: 0
+Ready: 1
+Collected: 0
+Collected Sales: ₹0
